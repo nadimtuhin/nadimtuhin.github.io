@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nadim Tuhin</title>
-    <link>http://nadimtuhin.rocks/index.xml</link>
+    <link>http://nadimtuhin.com/</link>
     <description>Recent content on Nadim Tuhin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jan 2017 07:40:21 +0600</lastBuildDate>
-    <atom:link href="http://nadimtuhin.rocks/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://nadimtuhin.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>welcome</title>
-      <link>http://nadimtuhin.rocks/post/welcome/</link>
+      <link>http://nadimtuhin.com/post/welcome/</link>
       <pubDate>Tue, 17 Jan 2017 07:40:21 +0600</pubDate>
       
-      <guid>http://nadimtuhin.rocks/post/welcome/</guid>
-      <description>&lt;p&gt;Hello world&lt;/p&gt;
-</description>
+      <guid>http://nadimtuhin.com/post/welcome/</guid>
+      <description>Hello world</description>
     </item>
     
   </channel>

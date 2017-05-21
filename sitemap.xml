@@ -2,19 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://nadimtuhin.rocks/post/welcome/</loc>
+    <loc>http://nadimtuhin.com/post/welcome/</loc>
     <lastmod>2017-01-17T07:40:21+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nadimtuhin.rocks/</loc>
+    <loc>http://nadimtuhin.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nadimtuhin.com/</loc>
     <lastmod>2017-01-17T07:40:21+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nadimtuhin.rocks/post/</loc>
+    <loc>http://nadimtuhin.com/post/</loc>
     <lastmod>2017-01-17T07:40:21+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nadimtuhin.com/tags/</loc>
     <priority>0</priority>
   </url>
   
